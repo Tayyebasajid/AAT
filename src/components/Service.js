@@ -12,7 +12,7 @@ const Service = () => {
 <h1 className=" lg:text-[48px] text-[25px] font-extrabold uppercase mx-4 text-center">master your<span className="text-blue-500 mx-2">American accent</span></h1>
 <h2 className="capitalize text-[20px] tracking-wide text-slate-600 mx-4">American Accent Training Philosophy </h2>
 </div>
-<div className="flex lg:flex-row flex-col mt-10 items-center justify-center mx-4 xl:mx-0">
+<div className="container flex lg:flex-row flex-col mt-10 items-center justify-center mx-4 xl:mx-auto">
 <div className=" flex flex-col items-center justify-center  rounded-xl bg-gradient-to-r from-white to-pink-200 xl:w-[40%] lg:w-[50%] w-full  p-5">
     
     <Image 
@@ -37,7 +37,7 @@ width={180}
 </div>
 
 </div>
-<div className="flex lg:flex-row flex-col-reverse mt-10 items-center justify-center">
+<div className=" container flex lg:flex-row flex-col-reverse mt-10 items-center justify-center xl:mx-auto">
 <div className="bg-white rounded-xl xl:w-[40%] lg:w-[50%] w-full mx-2 lg:-mr-12 ">
     <div className="lg:p-7 p-4 font-playfair lg:mx-4 mx-2">
     <h1 className="font-extrabold capitalize text-black lg:text-[32px] text-[25px]">2d sound motion technology</h1>
@@ -59,7 +59,7 @@ width={380}
 </div>
 
 </div>
-<div className="flex lg:flex-row flex-col mt-10 items-center justify-center mx-4 lg:mx-0 ">
+<div className="container flex lg:flex-row flex-col mt-10 items-center justify-center mx-4 lg:mx-auto ">
 <div className=" flex flex-col items-center justify-center  rounded-xl   bg-gradient-to-r from-white to-pink-200 xl:w-[40%] lg:w-[50%] w-full p-5">
     
     <Image 
