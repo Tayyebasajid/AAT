@@ -210,7 +210,7 @@ const About = () => {
   alt="community"
     />
     <div className="text-center m-4">
-      <h1 className="capitalize text-black font-bold lg:text-[20px] text-[18px] font-playfair flex justify-center">"in <span className="text-Pink mx-1"><Speech /></span> pronounci" community</h1>
+      <h1 className="capitalize text-black font-bold lg:text-[20px] text-[18px] font-playfair flex justify-center">in <span className="text-Pink mx-1"><Speech /></span> pronounci community</h1>
     <p className="text-slate-500 lg:text-[14px] text-[12px]">American Accent Training modules; learn how to improve American consonants & vowels, intonation & emphasis to start speaking English fluently.</p>
     <button className=" w-full py-3 text-black border-2 border-Pink  rounded-md mt-4 hover:bg-Pink hover:text-white duration-700">
 <h2 className="flex items-center justify-center capitalize font-playfair font-bold text-[18px] ">join now<ArrowRight /> </h2>

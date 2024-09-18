@@ -32,7 +32,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
    <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">tian's result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">tians result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     <div className="flex items-center justify-center">
@@ -56,10 +56,10 @@ const Review = () => {
   <div>
     <h3 className="lg:text-[15px] text-[12px] font-semibold">“I am thankful ...”</h3>
     <p className="lg:mt-2 text-gray-700 lg:text-[15px] text-[12px]">
-    I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
+    I feel confident speaking  English, and Im grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">jane's review</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">janes review</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
 </div>
@@ -83,7 +83,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">adam's review</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">adams review</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
 </div>
@@ -106,7 +106,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">will's review</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">wills review</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
 </div>
@@ -137,7 +137,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">yash's result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">yashs result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     <div className="flex items-center justify-center">
@@ -165,7 +165,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">thiago's review here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">thiagos review here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
    
@@ -190,7 +190,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">andrew's result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">andrews result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     <div className="flex items-center justify-center">
@@ -217,7 +217,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">joseph's review</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">josephs review</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     
@@ -241,7 +241,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">aria's result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">arias result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     <div className="flex items-center justify-center">
@@ -269,7 +269,7 @@ const Review = () => {
     I feel confident speaking  English, and I’m grateful that I met Alex as a part of my English learning journey…    </p>
     <div className="flex items-center justify-between capitalize lg:text-[14px] text-[12px] font-semibold">
     <div className="flex items-center justify-center">
-    <a href="#" className="text-Pink ">vald's result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
+    <a href="#" className="text-Pink ">valds result here</a><span className="text-Pink"><ArrowRight size={16}/></span>
 
     </div>
     <div className="flex items-center justify-center">
